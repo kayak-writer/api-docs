@@ -1,8 +1,8 @@
-# Job Finder API
+# Job Finder API 💼
 
 Finding a job in 2026 is hard. Ghost jobs. Layoffs have lead to a flood of job seekers in the market. And major job search websites do not list every job that employers post — and some of their listings might be out of date or closed.
 
-Job Finder seeks to solve this challenge by surfacing job posts directly from employer websites — so you can apply with employers directly. 
+Job Finder seeks to solve this challenge by surfacing job posts directly from employer websites — so you can apply with employers directly. 🤝
 
 ## Index
 * [Overview](#overview)
