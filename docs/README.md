@@ -1,6 +1,8 @@
 # Job Finder API
 
-Job Finder collects job listings from across the web to highlight open roles that meet specific requirements. Major job search websites do not list every job that employers post — and some of their listings might be out of date or closed. This tool solves these problems by surfacing job posts directly from employer websites.
+Finding a job in 2026 is hard. Ghost jobs. Layoffs have lead to a flood of job seekers in the market. And major job search websites do not list every job that employers post — and some of their listings might be out of date or closed.
+
+Job Finder seeks to solve this challenge by surfacing job posts directly from employer websites — so you can apply with employers directly. 
 
 ## Index
 * [Overview](#overview)
@@ -15,7 +17,7 @@ Job Finder collects job listings from across the web to highlight open roles tha
 
 ## Overview
 
-Job Finder aggregates technical writer, developer advocate, and instructional designer roles directly from employers across the web through platforms such as Greenhouse, Ashby, Lever, HackerNews, and more. Find relevant positions without relying on job boards.
+Job Finder aggregates technical writer, developer advocate, and instructional designer roles directly from employers that use popular platforms such as Greenhouse, Ashby, Lever, and more. Use the Job Finder API to find relevant positions without relying on job boards.
 
 ## Base URL
 
