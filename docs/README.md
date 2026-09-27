@@ -1,4 +1,4 @@
-# Job Finder API
+# Job Finder
 
 Finding a job in 2026 is hard. Ghost jobs. Layoffs have lead to a flood of job seekers in the market. And major job search websites do not list every job that employers post — and some of their listings might be out of date or closed.
 
