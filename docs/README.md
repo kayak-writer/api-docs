@@ -18,7 +18,7 @@ Find My Role seeks to solve this challenge by surfacing job posts directly from 
 
 ## Overview
 
-Find My Role aggregates technical writer, developer advocate, and instructional designer roles directly from employers that use popular platforms such as Greenhouse, Ashby, Lever, and more. Use the Job Finder API to find relevant positions without relying on job boards.
+Find My Role aggregates technical writer, developer advocate, and instructional designer roles directly from employers that use popular platforms such as Greenhouse, Ashby, Lever, and more. Use the Find My Role API to find relevant positions without relying on job boards.
 
 ## Base URL
 
