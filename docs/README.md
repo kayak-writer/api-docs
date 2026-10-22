@@ -229,7 +229,7 @@ curl "https://job-scraper.replit.app/api/v1/jobs?searchTerm=technical%20writer&i
 | `salaryRaw` | string \| null | Raw salary from posting (null if not provided) |
 | `url` | string | Direct link to the job posting |
 | `postedAt` | ISO 8601 | When posted on source platform |
-| `scrapedAt` | ISO 8601 | When Job Finder indexed it |
+| `scrapedAt` | ISO 8601 | When Find My Role indexed it |
 | `searchTerm` | string | Keyword used to find this listing |
 
 
