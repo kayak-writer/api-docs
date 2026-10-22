@@ -18,11 +18,11 @@ Find My Role seeks to solve this challenge by surfacing job posts directly from 
 
 ## Overview
 
-Job Finder aggregates technical writer, developer advocate, and instructional designer roles directly from employers that use popular platforms such as Greenhouse, Ashby, Lever, and more. Use the Job Finder API to find relevant positions without relying on job boards.
+Find My Role aggregates technical writer, developer advocate, and instructional designer roles directly from employers that use popular platforms such as Greenhouse, Ashby, Lever, and more. Use the Job Finder API to find relevant positions without relying on job boards.
 
 ## Base URL
 
-`https://job-scraper.replit.app`
+`https://findmyrole.dev`
 
 ## Authentication
 
@@ -70,7 +70,7 @@ A successful response returns a jobs array and pagination details:
 
 ## Endpoints
 
-Job Finder's public API lets you retrieve current job listings, review statistics and location counts, check the aggregator status, and download the live API definition. Every endpoint requires an `X-API-Key` header.
+Find My Role's public API lets you retrieve current job listings, review statistics and location counts, check the aggregator status, and download the live API definition. Every endpoint requires an `X-API-Key` header.
 
 The following endpoints are available:
 
